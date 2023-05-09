@@ -6,11 +6,11 @@
       "files": [
         {
           "filename": "main_bootloader.bin",
-          "checksum": "7873b606429a70284d63f0674e6787bc"
+          "checksum": "7574edaf544db7a0dd952ff0d2a82300"
         },
         {
           "filename": "main_firmware.bin",
-          "checksum": "b0a14fa4d927971347dec55f06a15873"
+          "checksum": "7574edaf544db7a0dd952ff0d2a82300"
         }
       ]
     },
@@ -20,7 +20,7 @@
       "files": [
         {
           "filename": "other_firmware.bin",
-          "checksum": "7873b606429a70284d63f0674e6787bc"
+          "checksum": "7574edaf544db7a0dd952ff0d2a82300"
         }
       ]
     }
