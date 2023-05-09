@@ -5,11 +5,11 @@
       "version": "0.0.5",
       "files": [
         {
-          "filename": "main_bootloader.bin",
+          "filename": "rpedali/dali-sd/main/main_bootloader.bin",
           "checksum": "7574edaf544db7a0dd952ff0d2a82300"
         },
         {
-          "filename": "main_firmware.bin",
+          "filename": "rpedali/dali-sd/main/main_firmware.bin",
           "checksum": "7574edaf544db7a0dd952ff0d2a82300"
         }
       ]
@@ -19,7 +19,7 @@
       "version": "0.0.5",
       "files": [
         {
-          "filename": "other_firmware.bin",
+          "filename": "rpedali/dali-sd/main/other_firmware.bin",
           "checksum": "7574edaf544db7a0dd952ff0d2a82300"
         }
       ]
