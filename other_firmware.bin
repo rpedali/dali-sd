@@ -1,0 +1,28 @@
+{
+  "components": [
+    {
+      "name": "main_mcu",
+      "version": "0.0.5",
+      "files": [
+        {
+          "filename": "main_bootloader.bin",
+          "checksum": "7873b606429a70284d63f0674e6787bc"
+        },
+        {
+          "filename": "main_firmware.bin",
+          "checksum": "b0a14fa4d927971347dec55f06a15873"
+        }
+      ]
+    },
+    {
+      "name": "large_other_mcu",
+      "version": "0.0.5",
+      "files": [
+        {
+          "filename": "other_firmware.bin",
+          "checksum": "7873b606429a70284d63f0674e6787bc"
+        }
+      ]
+    }
+  ]
+}
