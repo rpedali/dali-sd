@@ -1,0 +1,3 @@
+4.2
+rpedali/dali-sd/main/firmware.bin
+62D1E3820A
